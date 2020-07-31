@@ -1,0 +1,2 @@
+# OgrenciOtomasyonu
+Ogrenci kayit otomasyonu
