@@ -1,2 +1,2 @@
 # OgrenciOtomasyonu
-Ogrenci kayit otomasyonu
+Ogrenci kayit otomasyonu SQL veri tabanı kullanılarak
